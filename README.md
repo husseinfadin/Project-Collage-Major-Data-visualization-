@@ -8,23 +8,23 @@ Each row in the dataset represents a different major in college and contains inf
 
 Rank - Rank by median earnings (the dataset is ordered by this column).
 Major_code - Major code.<br>
-Major - Major description.
-Major_category - Category of major.
-Total - Total number of people with major.
-Sample_size - Sample size (unweighted) of full-time.
-Men - Male graduates.
-Women - Female graduates.
-ShareWomen - Women as share of total.
-Employed - Number employed.
-Median - Median salary of full-time, year-round workers.
-Low_wage_jobs - Number in low-wage service jobs.
-Full_time - Number employed 35 hours or more.
-Part_time - Number employed less than 35 hours.
+Major - Major description.<br>
+Major_category - Category of major.<br>
+Total - Total number of people with major.<br>
+Sample_size - Sample size (unweighted) of full-time.<br>
+Men - Male graduates.<br>
+Women - Female graduates.<br>
+ShareWomen - Women as share of total.<br>
+Employed - Number employed.<br>
+Median - Median salary of full-time, year-round workers.<br>
+Low_wage_jobs - Number in low-wage service jobs.<br>
+Full_time - Number employed 35 hours or more.<br>
+Part_time - Number employed less than 35 hours.<br>
 Using visualizations, we can start to explore questions from the dataset like:
 
 Do students in more popular majors make more money?
-Using scatter plots
-How many majors are predominantly male? Predominantly female?
-Using histograms
-Which category of majors have the most students?
+Using scatter plots<br>
+How many majors are predominantly male? Predominantly female?<br>
+Using histograms<br>
+Which category of majors have the most students?<br>
 Using bar plots
